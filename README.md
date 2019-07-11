@@ -14,9 +14,10 @@ https://localhost/API
 ``
 
 *APIs*
-* Insert Hotel
+* Insert Hotel[#insert]
 * Get Hotel By ID
 * Update Hotel
 * Delete Hotel
 * Get Nearby Hotels
 * Get Similar Name Hotels
+
