@@ -9,6 +9,14 @@
 
 > After download and make project run use below link for access API:
 
-``code
+``
 https://localhost/API
 ``
+
+*APIs*
+    - Insert Hotel
+    - Get Hotel By ID
+    - Update Hotel
+    - Delete Hotel
+    - Get Nearby Hotels
+    - Get Similar Name Hotels
