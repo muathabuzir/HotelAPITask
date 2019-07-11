@@ -14,9 +14,9 @@ https://localhost/API
 ``
 
 *APIs*
-    - Insert Hotel
-    - Get Hotel By ID
-    - Update Hotel
-    - Delete Hotel
-    - Get Nearby Hotels
-    - Get Similar Name Hotels
+    * Insert Hotel
+    * Get Hotel By ID
+    * Update Hotel
+    * Delete Hotel
+    * Get Nearby Hotels
+    * Get Similar Name Hotels
